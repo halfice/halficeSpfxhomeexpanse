@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "solutionwphomeexpanse-client-side-solution",
+    "id": "c498f9dd-1597-412d-9622-88200b61aeee",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/solutionwphomeexpanse.sppkg"
+  }
+}
